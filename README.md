@@ -32,7 +32,7 @@ I am **Praveen**, a passionate **Fullstack Developer**, an enthusiastic **Open S
 - 🧠 Learning: **Frappe, Kubernetes, DevOps, Cloud Architecture**
 - 🛠️ Interested in: **Automation, scalable backends, infra engineering**
 - 🎯 Mission: *“Tech that empowers people.”*
-- 🌐 Portfolio: **https://praveen-y.base44.app/**
+- 🌐 Portfolio: **https://praveeny.gamer.gd**
 - 📧 Reach me: **jaga03038@gmail.com**  
 
 ---
