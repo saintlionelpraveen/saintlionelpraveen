@@ -1,20 +1,26 @@
-<!-- 🕸️ SPIDER-THEMED BANNER — commit assets/spidey-banner.svg to this repo for this to render -->
+<!-- 🕸️ Requires assets/spidey-banner.svg, assets/spider-divider.svg, assets/spidey-sense-pulse.svg committed to this repo -->
 <p align="center">
   <img src="./assets/spidey-banner.svg" width="800" alt="Web-slinging developer banner" />
 </p>
 
 <!-- TYPING SVG -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=3200&pause=1000&color=E23636&center=true&vCenter=true&width=650&lines=Hey+👋,+I'm+Praveen;Your+Friendly+Neighborhood+Dev;Fullstack+Developer+%F0%9F%95%B8%EF%B8%8F;Open+Source+Web-Slinger;With+Great+Code+Comes+Great+Responsibility" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&duration=3200&pause=1000&color=E23636&center=true&vCenter=true&width=650&lines=Hey%20there%2C%20I%27m%20Praveen;Your%20Friendly%20Neighborhood%20Dev;Fullstack%20Developer;Open%20Source%20Web-Slinger;Great%20Code%2C%20Great%20Responsibility" alt="Typing SVG" />
 </h1>
 
-<!-- daily patrol snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saintlionelpraveen/saintlionelpraveen/output/github-contribution-grid-snake-dark.svg" />
+  <img src="./assets/spidey-sense-pulse.svg" width="60" alt="spidey sense pulse" />
+  <br/>
+  <sub><b>🕸️ SPIDEY-SENSE: ACTIVE</b></sub>
+</p>
+
+<!-- daily patrol snake — needs .github/workflows/spidey-snake.yml to run once before this shows -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saintlionelpraveen/saintlionelpraveen/output/github-contribution-grid-snake.svg" alt="contribution snake" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E23636,100:1B3FA0&height=4&section=header" />
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
 </p>
 
 ---
@@ -29,7 +35,9 @@
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
+</p>
 
 <h2 align="center">🕷️ Origin Story</h2>
 
@@ -60,7 +68,9 @@ Bitten by a radioactive keyboard 🕷️, I'm **Praveen** — a **Fullstack Deve
 - 🌐 Portfolio: [praveeny.gamer.gd](https://praveeny.gamer.gd)
 - 📧 Reach me: jaga03038@gmail.com
 
----
+<p align="center">
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
+</p>
 
 <h2 align="center">🕸️ Spidey-Sense Skill Levels</h2>
 
@@ -77,17 +87,15 @@ Bitten by a radioactive keyboard 🕷️, I'm **Praveen** — a **Fullstack Deve
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E23636,100:1B3FA0&height=3" />
-</p>
-
 <h2 align="center">🕸️ My Web (Tech Stack)</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,py,php,git,github,linux,docker,kubernetes,nginx,mysql,postgres,redis,figma,sketch&perline=8" />
 </div>
 
----
+<p align="center">
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
+</p>
 
 <h2 align="center">📅 Web-Slinging Chronicles</h2>
 
@@ -101,8 +109,6 @@ Bitten by a radioactive keyboard 🕷️, I'm **Praveen** — a **Fullstack Deve
 ```
 
 </div>
-
----
 
 <h2 align="center">🕷️ Training Arc</h2>
 
@@ -131,7 +137,9 @@ mindmap
 
 </div>
 
----
+<p align="center">
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
+</p>
 
 <h2 align="center">📊 Web Analytics HQ</h2>
 
@@ -148,15 +156,15 @@ mindmap
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintlionelpraveen&hide_border=true&bg_color=0d1117&color=E23636&line=1B3FA0&point=c9d1d9&area=true&area_color=1B3FA0" />
 </p>
 
----
+<p align="center">
+  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
+</p>
 
 <h2 align="center">🏆 Trophy Room</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=saintlionelpraveen&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
 </p>
-
----
 
 <h2 align="center">🔢 Mission Control</h2>
 
@@ -167,8 +175,6 @@ mindmap
   &nbsp;
   <img src="https://img.shields.io/github/stars/saintlionelpraveen?style=for-the-badge&color=E23636&labelColor=0d1117&label=Stars+Earned" />
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0:1B3FA0,100:E23636&section=footer&reversal=true" />
