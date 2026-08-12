@@ -1,0 +1,55 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="spidey" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#E23636"/>
+      <stop offset="100%" stop-color="#1B3FA0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="220" fill="url(#bg)"/>
+
+  <!-- corner web, top-left -->
+  <g stroke="#E23636" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M0,0 L70,0 M0,0 L0,70 M0,0 L70,70 M0,0 L45,0 M0,0 L0,45 M0,0 L25,70 M0,0 L70,25"/>
+    <circle cx="0" cy="0" r="22"/>
+    <circle cx="0" cy="0" r="44"/>
+    <circle cx="0" cy="0" r="66"/>
+  </g>
+
+  <!-- corner web, top-right -->
+  <g stroke="#1B3FA0" stroke-width="1" opacity="0.35" fill="none">
+    <path d="M800,0 L730,0 M800,0 L800,70 M800,0 L730,70 M800,0 L755,0 M800,0 L800,45 M800,0 L775,70 M800,0 L730,25"/>
+    <circle cx="800" cy="0" r="22"/>
+    <circle cx="800" cy="0" r="44"/>
+    <circle cx="800" cy="0" r="66"/>
+  </g>
+
+  <!-- thread -->
+  <line x1="400" y1="0" x2="400" y2="66" stroke="#c9d1d9" stroke-width="1.5"/>
+
+  <!-- spider, bobbing on its thread -->
+  <g id="spider">
+    <animateTransform attributeName="transform" type="translate" values="0,0; 0,26; 0,0" dur="2.6s" repeatCount="indefinite"/>
+    <line x1="400" y1="0" x2="400" y2="66" stroke="#c9d1d9" stroke-width="1.2" opacity="0.9"/>
+    <circle cx="400" cy="74" r="9" fill="url(#spidey)"/>
+    <ellipse cx="400" cy="94" rx="15" ry="19" fill="url(#spidey)"/>
+    <g stroke="#0d1117" stroke-width="2.4" fill="none" stroke-linecap="round">
+      <path d="M388,86 L365,76"/>
+      <path d="M388,92 L361,94"/>
+      <path d="M388,100 L365,114"/>
+      <path d="M412,86 L435,76"/>
+      <path d="M412,92 L439,94"/>
+      <path d="M412,100 L435,114"/>
+    </g>
+  </g>
+
+  <!-- title -->
+  <text x="400" y="185" text-anchor="middle" font-family="Verdana, sans-serif" font-size="27" font-weight="700" fill="url(#spidey)">
+    YOUR FRIENDLY NEIGHBORHOOD DEVELOPER
+    <animate attributeName="opacity" values="0;1" dur="1.4s" fill="freeze"/>
+  </text>
+</svg>
