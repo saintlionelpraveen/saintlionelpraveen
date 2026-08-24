@@ -1,122 +1,70 @@
-<!-- 🕸️ Requires assets/spidey-banner.svg, assets/spider-divider.svg, assets/spidey-sense-pulse.svg committed to this repo -->
-<p align="center">
-  <img src="./assets/spidey-banner.svg" width="800" alt="Web-slinging developer banner" />
-</p>
-
-<!-- TYPING SVG -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=30&duration=3200&pause=1000&color=E23636&center=true&vCenter=true&width=650&lines=Hey%20there%2C%20I%27m%20Praveen;Your%20Friendly%20Neighborhood%20Dev;Fullstack%20Developer;Open%20Source%20Web-Slinger;Great%20Code%2C%20Great%20Responsibility" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <img src="./assets/spidey-sense-pulse.svg" width="60" alt="spidey sense pulse" />
-  <br/>
-  <sub><b>🕸️ SPIDEY-SENSE: ACTIVE</b></sub>
-</p>
-
-<!-- daily patrol snake — needs .github/workflows/spidey-snake.yml to run once before this shows -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/saintlionelpraveen/saintlionelpraveen/output/github-contribution-grid-snake.svg" alt="contribution snake" />
-</p>
-
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
-
----
-
-<h2 align="center">🕸️ Web-Slinger Stats</h2>
+<!-- ================================================================
+  Praveen — GitHub Profile README
+  Only custom asset needed: ./assets/divider.svg (included alongside this file).
+  Everything else (banner, typing text, stats, streak, trophies, snake)
+  renders live from public badge/stat services — nothing else to commit.
+================================================================= -->
 
 <div align="center">
 
-| 🕷️ Slinging Webs Since | 🐛 Bugs Squashed | 🚀 Missions Completed | 🌍 Mission |
-|:-:|:-:|:-:|:-:|
-| **2+ yrs** | **150+** | **5** | **Tech4Good** |
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Hi%20There,%20I'm%20Praveen&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20Tech4Good%20Fellow&descAlignY=55&descSize=16" width="100%" alt="header banner" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+name%3A+%22Praveen%22+%7D;Building+scalable+backends+%F0%9F%9A%80;Open-source+contributor+%F0%9F%8C%90;Automating+the+boring+stuff+%E2%9A%99%EF%B8%8F" alt="typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=saintlionelpraveen&style=flat-square&color=6366F1&labelColor=0d1117&label=Profile+Views" alt="profile views" />
+<img src="https://img.shields.io/github/followers/saintlionelpraveen?style=flat-square&color=22D3EE&labelColor=0d1117&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/saintlionelpraveen?style=flat-square&color=6366F1&labelColor=0d1117&label=Stars" alt="stars" />
 
 </div>
 
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🕷️ Origin Story</h2>
+## 🚀 About Me
+
+- 🧑‍💻 Fullstack developer building systems that are actually used, not just shipped
+- 🏗️ Currently building an **open-source ERP** — a Zoho Books–style billing/accounting system
+- 🌱 Learning **Frappe, Kubernetes, and cloud-native architecture**
+- 🎯 Tech4Good Fellow — focused on tech that empowers people, not just impresses recruiters
+- 🌐 Portfolio: **[praveeny.gamer.gd](https://praveeny.gamer.gd)**
+- 📫 Reach me: **jaga03038@gmail.com**
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Fullstack%20Dev-E23636?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20Source-1B3FA0?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Tech4Good%20Fellow-E23636?style=for-the-badge&labelColor=0d1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-1B3FA0?style=for-the-badge&labelColor=0d1117" />
+<img src="https://readme-quotes.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" width="80%"/>
 </div>
 
-<br>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-> *"Every great app was once just a bug report waiting to be fixed."*
+## 🛠️ Tech Stack
 
-### 👨‍💻 Who Am I?
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=js,py,php,html,css&theme=dark" />
 
-Bitten by a radioactive keyboard 🕷️, I'm **Praveen** — a **Fullstack Developer**, **Open Source Contributor**, and **Tech4Good Fellow** who swings between frontend and backend building systems that spark real-world impact.
+**Backend & Frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,php&theme=dark" />
 
-### 🔥 What I Do
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" />
 
-- 🚀 Currently building: **Open-source ERP, Zoho Books–like systems**
-- 🕸️ Learning: **Frappe, Kubernetes, DevOps, Cloud Architecture**
-- 🛠️ Interested in: **Automation, scalable backends, infra engineering**
-- 🎯 Mission: *"Tech that empowers people."*
-- 🌐 Portfolio: [praveeny.gamer.gd](https://praveeny.gamer.gd)
-- 📧 Reach me: jaga03038@gmail.com
+**DevOps & Infra**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github,aws&theme=dark" />
 
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
+**Design**
+<br/>
+<img src="https://skillicons.dev/icons?i=figma,sketch&theme=dark" />
 
-<h2 align="center">🕸️ Spidey-Sense Skill Levels</h2>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<div align="center">
-
-| Skill | Spidey-Sense |
-|---|---|
-| JavaScript / Node.js | `████████░░` 88% |
-| Python | `████████░░` 80% |
-| MySQL / PostgreSQL | `████████░░` 82% |
-| Docker / Kubernetes | `███████░░░` 70% |
-| Linux / Nginx | `████████░░` 85% |
-| Figma / UI Design | `██████░░░░` 65% |
-
-</div>
-
-<h2 align="center">🕸️ My Web (Tech Stack)</h2>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,php,git,github,linux,docker,kubernetes,nginx,mysql,postgres,redis,figma,sketch&perline=8" />
-</div>
-
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
-
-<h2 align="center">📅 Web-Slinging Chronicles</h2>
-
-<div align="center">
-
-```
-2024 – present  🕸️━━━  Open-source ERP system         [Frappe · Python · PostgreSQL]
-2024            🕸️━━━  Zoho Books–like billing module  [Node.js · PostgreSQL · Redis]
-2023            🕸️━━━  Tech4Good fellowship platform   [Impact tech · Fullstack]
-2023            🕸️━━━  Personal portfolio site         [praveeny.gamer.gd]
-```
-
-</div>
-
-<h2 align="center">🕷️ Training Arc</h2>
-
-<div align="center">
+## 🧠 How I Think About Tech
 
 ```mermaid
 mindmap
-  root((🕷️ Praveen))
+  root((Praveen))
     Infra
       Kubernetes
       Docker Swarm
@@ -126,70 +74,68 @@ mindmap
       ERPNext
       REST + GraphQL
     Cloud
-      AWS Basics
       CI/CD Pipelines
       Linux Administration
+      AWS Basics
     Frontend
       Modern JS
       Component Design
       Figma Prototyping
 ```
 
-</div>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
+## 📌 What I'm Building
 
-<h2 align="center">📊 Web Analytics HQ</h2>
+```yaml
+2024 - present: Open-source ERP system          # Frappe · Python · PostgreSQL
+2024:           Billing & invoicing module       # Node.js · PostgreSQL · Redis
+2023:           Tech4Good fellowship platform     # Impact tech · Fullstack
+2023:           Personal portfolio site           # praveeny.gamer.gd
+```
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=saintlionelpraveen&show_icons=true&hide_border=true&bg_color=0d1117&title_color=E23636&icon_color=1B3FA0&text_color=c9d1d9" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintlionelpraveen&layout=compact&hide_border=true&bg_color=0d1117&title_color=E23636&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saintlionelpraveen&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=6366F1&text_color=c9d1d9" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintlionelpraveen&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=c9d1d9" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=saintlionelpraveen&hide_border=true&background=0D1117&ring=E23636&fire=1B3FA0&currStreakLabel=E23636&sideLabels=1B3FA0&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" />
-</p>
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=saintlionelpraveen&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=22D3EE" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintlionelpraveen&hide_border=true&bg_color=0d1117&color=E23636&line=1B3FA0&point=c9d1d9&area=true&area_color=1B3FA0" />
-</p>
+<div align="center">
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=saintlionelpraveen&theme=react-dark&hide_border=true&bg_color=0D1117&color=22D3EE&line=6366F1&point=c9d1d9&area=true&area_color=6366F1" />
+</div>
 
-<p align="center">
-  <img src="./assets/spider-divider.svg" width="800" alt="divider" />
-</p>
+<!-- Contribution snake — requires .github/workflows/snake.yml (see GitHub's own
+     "platane/snk" action) to generate this output branch once, then it self-updates daily -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/saintlionelpraveen/saintlionelpraveen/output/github-contribution-grid-snake.svg" alt="contribution snake" width="90%" />
+</div>
 
-<h2 align="center">🏆 Trophy Room</h2>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=saintlionelpraveen&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saintlionelpraveen&theme=dracula&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-<h2 align="center">🔢 Mission Control</h2>
+## 🤝 Let's Connect
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saintlionelpraveen&style=for-the-badge&color=E23636&labelColor=0d1117&label=Profile+Views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/saintlionelpraveen?style=for-the-badge&color=1B3FA0&labelColor=0d1117&label=Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/saintlionelpraveen?style=for-the-badge&color=E23636&labelColor=0d1117&label=Stars+Earned" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=140&color=0:1B3FA0,100:E23636&section=footer&reversal=true" />
-</p>
+<a href="https://linkedin.com/in/praveeny"><img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/tebi_messi_13"><img src="https://img.shields.io/badge/Instagram-22D3EE?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:jaga03038@gmail.com"><img src="https://img.shields.io/badge/Gmail-6366F1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://praveeny.gamer.gd"><img src="https://img.shields.io/badge/Portfolio-22D3EE?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
-<h2 align="center">📞 Signal the Web-Head</h2>
+<br/><br/>
 
-<p align="center">
-  <a href="https://linkedin.com/in/praveeny"><img height="35" src="https://skillicons.dev/icons?i=linkedin" /></a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/tebi_messi_13"><img height="35" src="https://skillicons.dev/icons?i=instagram" /></a>
-  &nbsp;&nbsp;
-  <a href="mailto:jaga03038@gmail.com"><img height="35" src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+<i>Open to collaborations, open-source contributions, and building things that matter.</i>
 
-<p align="center">
-  <i>Open to collaborations, open source contributions, and building things that matter — with great code comes great responsibility. 🕸️</i>
-</p>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=120&section=footer" width="100%" alt="footer banner" />
